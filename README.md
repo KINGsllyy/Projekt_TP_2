@@ -1,2 +1,4 @@
 # Projekt_TP_2
-Projekt Michał Refermat i Kosma Chorążewicz
+Projekt nr 2
+ACiR
+Michał Refermat i Kosma Chorążewicz
